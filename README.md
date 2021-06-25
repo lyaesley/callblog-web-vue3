@@ -1,4 +1,5 @@
 # callblog-web
+@vue-cli 3.x 버전으로 설치
 
 ## Project setup
 ```
